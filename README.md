@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div style="display: inline_block"><br>
+  
   <img align="center" alt="Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
@@ -29,6 +31,7 @@ Here are some ideas to get you started:
   
  ##
   
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=w3helton&count_private=true&show_icons=true&include_all_commits=true)
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=w3helton&count_private=true&show_icons=true&include_all_commits=true) 
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3helton&hide=TeX&layout=compact)
 </div>
 
