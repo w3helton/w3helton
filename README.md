@@ -28,5 +28,7 @@ Here are some ideas to get you started:
   <!--img align="center" alt="Rafa-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" -->
   
  ##
+  
+  ![Github Stats](https://github-readme-stats.vercel.app/api?username=w3helton&count_private=true&show_icons=true&include_all_commits=true)
 </div>
 
