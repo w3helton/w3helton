@@ -1,5 +1,9 @@
 ### Olá, Eu sou Helton N. Andrade 👋
 
+Programador apaixonado e  autodidata, grande habilidade em soluções de problemas e lidar com cliente. 
+Capacidade de lidar com mais de um problema ao mesmo tempo.
+Boa comunicação, Trabalho em equipe, Liderança, Flexibilidade, Proatividade, Organização, Criatividade, Resolução de problemas, Resiliência/controle emocional e Foco nos resultados.
+
 <!--
 **w3helton/w3helton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
